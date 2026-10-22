@@ -1,20 +1,20 @@
 {
-  "versionName": "1.6.1",
-  "notes": "Statuses: if the server on the Pi hasn't been updated yet, the app now says so and shows the update command (instead of \"invalid_id\").",
-  "published": "2026-10-22T13:38:16.971Z",
+  "versionName": "1.6.2",
+  "notes": "Save photos, videos, voice messages and files to your phone: long-press a message → Save to phone, or Save in the photo/video viewer.",
+  "published": "2026-10-22T15:12:22.507Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 20008,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.1-android5plus.apk",
-      "sha256": "009837826cbed684f5d882313cd30ece0050af63d8386c5cf59eb115986fcbd9",
-      "size": 28382939
+      "versionCode": 20009,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.2-android5plus.apk",
+      "sha256": "02d5b41747d2ec15c4ddcb6665ff3440043a70555b73471f6e07afd3987d8e0f",
+      "size": 28386642
     },
     "legacy": {
-      "versionCode": 10008,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.1-android4-legacy.apk",
-      "sha256": "d39206a03b4f0abc70b73303a569d62828812729a525324357c9276371266028",
-      "size": 20437403
+      "versionCode": 10009,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.2-android4-legacy.apk",
+      "sha256": "51509b6daadddb1112baf7f7c26c408d4fe64ffe2e4db112270fc68009817e74",
+      "size": 20441238
     }
   }
 }
