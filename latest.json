@@ -1,20 +1,20 @@
 {
-  "versionName": "1.8.0",
-  "notes": "Behind-the-scenes update for the upcoming Google Play version; new privacy policy and account deletion pages on the website.",
-  "published": "2026-10-22T16:04:24.559Z",
+  "versionName": "1.8.1",
+  "notes": "Smaller download again (1.8.0 was twice the size by mistake). Preparations for the Google Play version.",
+  "published": "2026-10-22T16:06:14.625Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 20012,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.8.0-android5plus.apk",
-      "sha256": "2c6944826400ffc4299c3a55894cd6c476f7656b59470272fc2a0c4c73795c2b",
-      "size": 54794441
+      "versionCode": 20013,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.8.1-android5plus.apk",
+      "sha256": "edcf4b8bb1504f5880798d5b4a3adc6030a6242e93bc5d4f9734cd8cfd49e70e",
+      "size": 28398242
     },
     "legacy": {
-      "versionCode": 10012,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.8.0-android4-legacy.apk",
-      "sha256": "5a48840bde2442a4228d19deda61aea646de9efed9487452ab6c97985b55a4ca",
-      "size": 38735217
+      "versionCode": 10013,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.8.1-android4-legacy.apk",
+      "sha256": "2ff877f0ac3907402b47383d90a6fdf30069cf5f9983ce6466da0296cd2ee4dd",
+      "size": 20450643
     }
   }
 }
