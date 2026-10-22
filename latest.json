@@ -1,20 +1,20 @@
 {
-  "versionName": "1.5.0",
-  "notes": "Automatic updates: Zapple now tells you when a new version is out and installs it in a few taps (Settings → Updates). Includes the call fixes from 1.4.0.",
-  "published": "2026-10-22T11:22:38.412Z",
+  "versionName": "1.6.0",
+  "notes": "Status updates, like WhatsApp: share text, photo and video statuses that disappear after 24 hours. See who viewed yours, reply or react to your contacts' statuses, mute people and choose who can see yours. End-to-end encrypted.",
+  "published": "2026-10-22T11:53:12.718Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 20006,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.5.0-android5plus.apk",
-      "sha256": "0146fa4b39b55394d90abcb7684967f6bf3de303d3e48f61a5862ddf3c286ed0",
-      "size": 28347758
+      "versionCode": 20007,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.0-android5plus.apk",
+      "sha256": "e5c5815b5c0f9da82b6ca649f86dcb239ee2feeff85d6701c937ba9ac57e35da",
+      "size": 28382331
     },
     "legacy": {
-      "versionCode": 10006,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.5.0-android4-legacy.apk",
-      "sha256": "70b4c0e9ee27168da4f3ae42d1dcb4418c633b0c99474ab4401a330226148463",
-      "size": 20370133
+      "versionCode": 10007,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.0-android4-legacy.apk",
+      "sha256": "70de129f6d0007b3af46fecfddf0642287ed8f68c0216efae5b25d407804cb5c",
+      "size": 20436955
     }
   }
 }
