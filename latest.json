@@ -1,20 +1,20 @@
 {
-  "versionName": "1.8.1",
-  "notes": "Smaller download again (1.8.0 was twice the size by mistake). Preparations for the Google Play version.",
-  "published": "2026-10-22T16:06:14.625Z",
+  "versionName": "1.8.2",
+  "notes": "Photos in chats show at full size again and captions are no longer cut off.",
+  "published": "2026-10-22T16:42:01.218Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 20013,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.8.1-android5plus.apk",
-      "sha256": "edcf4b8bb1504f5880798d5b4a3adc6030a6242e93bc5d4f9734cd8cfd49e70e",
-      "size": 28398242
+      "versionCode": 20014,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.8.2-android5plus.apk",
+      "sha256": "a10758b7013ff48ec1cae5d0ed63804881364067b4fcc5a3d0348b682b9a5201",
+      "size": 28398414
     },
     "legacy": {
-      "versionCode": 10013,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.8.1-android4-legacy.apk",
-      "sha256": "2ff877f0ac3907402b47383d90a6fdf30069cf5f9983ce6466da0296cd2ee4dd",
-      "size": 20450643
+      "versionCode": 10014,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.8.2-android4-legacy.apk",
+      "sha256": "66c5466b8318d008f0a7d3afc6ae792ecfabd76764b655a645c14946d667ffa6",
+      "size": 20451490
     }
   }
 }
