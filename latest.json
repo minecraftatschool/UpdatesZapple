@@ -1,20 +1,20 @@
 {
-  "versionName": "1.6.2",
-  "notes": "Save photos, videos, voice messages and files to your phone: long-press a message → Save to phone, or Save in the photo/video viewer.",
-  "published": "2026-10-22T15:12:22.507Z",
+  "versionName": "1.6.3",
+  "notes": "Checks for updates every 30 minutes instead of every 3 hours, so new versions show up sooner. Includes Save to phone for photos, videos and files.",
+  "published": "2026-10-22T15:16:55.249Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 20009,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.2-android5plus.apk",
-      "sha256": "02d5b41747d2ec15c4ddcb6665ff3440043a70555b73471f6e07afd3987d8e0f",
-      "size": 28386642
+      "versionCode": 20010,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.3-android5plus.apk",
+      "sha256": "bcda68b9329e1469e4d0364a4fea011f6d09ad90012406bb2d490b72af4e0fb1",
+      "size": 28386639
     },
     "legacy": {
-      "versionCode": 10009,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.2-android4-legacy.apk",
-      "sha256": "51509b6daadddb1112baf7f7c26c408d4fe64ffe2e4db112270fc68009817e74",
-      "size": 20441238
+      "versionCode": 10010,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.3-android4-legacy.apk",
+      "sha256": "d96ca8b22df09ada74ba351e8dd55f86d1001f6e71a417c3325518e4aa0381eb",
+      "size": 20441241
     }
   }
 }
