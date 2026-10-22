@@ -1,20 +1,20 @@
 {
-  "versionName": "1.6.3",
-  "notes": "Checks for updates every 30 minutes instead of every 3 hours, so new versions show up sooner. Includes Save to phone for photos, videos and files.",
-  "published": "2026-10-22T15:16:55.249Z",
+  "versionName": "1.7.0",
+  "notes": "Delete chats (long-press a chat → Delete chat). Add people from your chats to groups by ticking them, no invite code needed.",
+  "published": "2026-10-22T15:28:20.008Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 20010,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.3-android5plus.apk",
-      "sha256": "bcda68b9329e1469e4d0364a4fea011f6d09ad90012406bb2d490b72af4e0fb1",
-      "size": 28386639
+      "versionCode": 20011,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.7.0-android5plus.apk",
+      "sha256": "65b811d57c30ce7709b00c0d091bd59b37f26121583b69b3ee338f0aa38a4ec7",
+      "size": 28391261
     },
     "legacy": {
-      "versionCode": 10010,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.3-android4-legacy.apk",
-      "sha256": "d96ca8b22df09ada74ba351e8dd55f86d1001f6e71a417c3325518e4aa0381eb",
-      "size": 20441241
+      "versionCode": 10011,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.7.0-android4-legacy.apk",
+      "sha256": "63ad1c28bfb844fe17f3528258b0d78e8a75f815bd0ad97f6de3c32e5a67b578",
+      "size": 20445518
     }
   }
 }
