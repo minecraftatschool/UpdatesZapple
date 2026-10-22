@@ -1,20 +1,20 @@
 {
-  "versionName": "1.6.0",
-  "notes": "Status updates, like WhatsApp: share text, photo and video statuses that disappear after 24 hours. See who viewed yours, reply or react to your contacts' statuses, mute people and choose who can see yours. End-to-end encrypted.",
-  "published": "2026-10-22T11:53:12.718Z",
+  "versionName": "1.6.1",
+  "notes": "Statuses: if the server on the Pi hasn't been updated yet, the app now says so and shows the update command (instead of \"invalid_id\").",
+  "published": "2026-10-22T13:38:16.971Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 20007,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.0-android5plus.apk",
-      "sha256": "e5c5815b5c0f9da82b6ca649f86dcb239ee2feeff85d6701c937ba9ac57e35da",
-      "size": 28382331
+      "versionCode": 20008,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.1-android5plus.apk",
+      "sha256": "009837826cbed684f5d882313cd30ece0050af63d8386c5cf59eb115986fcbd9",
+      "size": 28382939
     },
     "legacy": {
-      "versionCode": 10007,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.0-android4-legacy.apk",
-      "sha256": "70de129f6d0007b3af46fecfddf0642287ed8f68c0216efae5b25d407804cb5c",
-      "size": 20436955
+      "versionCode": 10008,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.6.1-android4-legacy.apk",
+      "sha256": "d39206a03b4f0abc70b73303a569d62828812729a525324357c9276371266028",
+      "size": 20437403
     }
   }
 }
