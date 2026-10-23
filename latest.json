@@ -1,20 +1,20 @@
 {
-  "versionName": "1.8.3",
-  "notes": "Videos play again on Android 4 (in chats and statuses).",
-  "published": "2026-10-23T05:10:27.303Z",
+  "versionName": "1.9.0",
+  "notes": "Report people from Contact info. Admin panel for the server admin (Settings → Server admin).",
+  "published": "2026-10-23T09:39:57.755Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 20015,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.8.3-android5plus.apk",
-      "sha256": "2a99513ac3737e835101e849b954efc1b64b10f9d1bbfba4f9ba3f6c47520886",
-      "size": 28398749
+      "versionCode": 20016,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.9.0-android5plus.apk",
+      "sha256": "1b3d8ca17d61ee97f91faf10e4c6b13200fded4a545563edb4b60c040d392464",
+      "size": 28415736
     },
     "legacy": {
-      "versionCode": 10015,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.8.3-android4-legacy.apk",
-      "sha256": "a9016cafd9a2fb0d99e45d088e21ff9337df61a6e361a374aa5b9e0538bb8243",
-      "size": 20451916
+      "versionCode": 10016,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-1.9.0-android4-legacy.apk",
+      "sha256": "499cb1cd8bc53e4cd2c12acdbff09da191e26e302e1cbda43f040a578721b3a6",
+      "size": 20469427
     }
   }
 }
