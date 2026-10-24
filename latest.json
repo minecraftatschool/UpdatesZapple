@@ -1,20 +1,20 @@
 {
-  "versionName": "2.0.0",
-  "notes": "Zapple 2.0: channels, profile links (@name), pronouns & badges, nicknames, chat wallpapers, dice and @mentions in groups.",
-  "published": "2026-10-24T19:26:26.214Z",
+  "versionName": "2.1.0",
+  "notes": "Your own photo as chat wallpaper (Info → Wallpaper → Photo…).",
+  "published": "2026-10-24T19:38:34.356Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 20017,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-2.0.0-android5plus.apk",
-      "sha256": "f6f5e4f4e1d6dda802678f58449d7d8917f81b42ba612acf170ef5f5aa23d005",
-      "size": 28643215
+      "versionCode": 20018,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-2.1.0-android5plus.apk",
+      "sha256": "f0c9c1ed37860c6bc88fd41c4ddebd929ea5d22c4255668e5e57b4820ea31ecb",
+      "size": 28439867
     },
     "legacy": {
-      "versionCode": 10017,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-2.0.0-android4-legacy.apk",
-      "sha256": "79d6e11ef5e44eafd5d6a070b91ebc7f581fd8df3cbcd1792a0e78a71956f362",
-      "size": 20490543
+      "versionCode": 10018,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-2.1.0-android4-legacy.apk",
+      "sha256": "bce6acc573af029353c4aa5bef9389de751f0faac11a2497b7c15f1724feb0e8",
+      "size": 20492851
     }
   }
 }
