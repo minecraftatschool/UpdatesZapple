@@ -1,20 +1,20 @@
 {
-  "versionName": "3.2.0",
-  "notes": "Zapple 3.2: add your gender and sexuality to your profile (a long list, or write your own). Fixes a crash when you were signed out while the app was open.",
-  "published": "2026-10-26T12:26:20.084Z",
+  "versionName": "3.3.0",
+  "notes": "Zapple 3.3: stickers! Send a photo to the verified stickers bot and it turns it into a sticker. Tap a sticker → Save sticker to keep it, then send it from the new sticker button.",
+  "published": "2026-10-26T12:45:11.682Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 22022,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.2.0-android5plus.apk",
-      "sha256": "18a2b76493d6189721d6eb401d95195fa8cb07986ed41b4c0d4b7ce05ddf3529",
-      "size": 28460941
+      "versionCode": 23023,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.3.0-android5plus.apk",
+      "sha256": "91167925635ba8c341f150de9cfaab6153006dfaccfe7e3220344d15d3efca9d",
+      "size": 28467433
     },
     "legacy": {
-      "versionCode": 10022,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.2.0-android4-legacy.apk",
-      "sha256": "d5ed7f8223497eef439ab7e68fbe001cd47e1e2d4c6300c9b5cf910694bdd59b",
-      "size": 20513750
+      "versionCode": 10023,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.3.0-android4-legacy.apk",
+      "sha256": "19beeb0a1bf1804cecaa9d58e97fc3b315dd24d80c97869b72fd5dff8332f014",
+      "size": 20527844
     }
   }
 }
