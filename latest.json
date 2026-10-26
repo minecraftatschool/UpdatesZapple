@@ -1,20 +1,20 @@
 {
-  "versionName": "3.1.0",
-  "notes": "Zapple 3.1: ⚡ Zap your friends, play tic-tac-toe (❌⭕) in any chat, send view-once photos, react with any emoji, swipe a message right to reply, and get official announcements in the Zapple channel.",
-  "published": "2026-10-26T11:32:53.171Z",
+  "versionName": "3.2.0",
+  "notes": "Zapple 3.2: add your gender and sexuality to your profile (a long list, or write your own). Fixes a crash when you were signed out while the app was open.",
+  "published": "2026-10-26T12:26:20.084Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 21021,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.1.0-android5plus.apk",
-      "sha256": "86657df619a8fbc4ea8d17f56ebaab50219880d93a8b36fcc555b75ccfdaa2eb",
-      "size": 28457997
+      "versionCode": 22022,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.2.0-android5plus.apk",
+      "sha256": "18a2b76493d6189721d6eb401d95195fa8cb07986ed41b4c0d4b7ce05ddf3529",
+      "size": 28460941
     },
     "legacy": {
-      "versionCode": 10021,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.1.0-android4-legacy.apk",
-      "sha256": "fbcb27ca5f09aee3b7b23f65e1b838c5202a08a8232ee9110877d8d42b45eb1c",
-      "size": 20511960
+      "versionCode": 10022,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.2.0-android4-legacy.apk",
+      "sha256": "d5ed7f8223497eef439ab7e68fbe001cd47e1e2d4c6300c9b5cf910694bdd59b",
+      "size": 20513750
     }
   }
 }
