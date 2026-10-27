@@ -1,20 +1,20 @@
 {
-  "versionName": "3.5.0",
-  "notes": "Zapple 3.5: your favourite stickers are now synced between all your devices (phone and web).",
-  "published": "2026-10-27T16:15:35.108Z",
+  "versionName": "3.6.0",
+  "notes": "Group calls! Voice or video calls with up to 4 people in any group. Tap the call buttons in a group, or the green bar to join a call that's already going on.",
+  "published": "2026-10-27T16:35:12.324Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 25025,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.5.0-android5plus.apk",
-      "sha256": "6fbb63072c54b645aa262a1df247cdd90cfc3ee3d8abe63d4b220a43ff9d00de",
-      "size": 28471545
+      "versionCode": 25026,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.6.0-android5plus.apk",
+      "sha256": "682696e00613df51be314b68a0c80bcc498ac64f1604c8fb8a889dac9853bdd8",
+      "size": 28484860
     },
     "legacy": {
-      "versionCode": 10025,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.5.0-android4-legacy.apk",
-      "sha256": "1e06f423b124b0a004a61ba4b99d79e29cfadc18ae4cdd2462f2af7e442f987e",
-      "size": 20532431
+      "versionCode": 10026,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.6.0-android4-legacy.apk",
+      "sha256": "b6369db0c9a509f985767e31287b95d6f15050d84f4627e33b803a6152746c55",
+      "size": 20545873
     }
   }
 }
