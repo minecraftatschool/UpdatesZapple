@@ -1,20 +1,20 @@
 {
-  "versionName": "3.3.0",
-  "notes": "Zapple 3.3: stickers! Send a photo to the verified stickers bot and it turns it into a sticker. Tap a sticker → Save sticker to keep it, then send it from the new sticker button.",
-  "published": "2026-10-26T12:45:11.682Z",
+  "versionName": "3.4.0",
+  "notes": "Zapple 3.4: a loading screen when the app starts (with a clear message if the server can't be reached), and animated stickers: send a GIF or a short video to the stickers bot.",
+  "published": "2026-10-27T16:09:13.338Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 23023,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.3.0-android5plus.apk",
-      "sha256": "91167925635ba8c341f150de9cfaab6153006dfaccfe7e3220344d15d3efca9d",
-      "size": 28467433
+      "versionCode": 24024,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.4.0-android5plus.apk",
+      "sha256": "3f2774f91a6c6ffede78c66b0e4d69729767206c20fef17970bd28a1596bc1a6",
+      "size": 28470142
     },
     "legacy": {
-      "versionCode": 10023,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.3.0-android4-legacy.apk",
-      "sha256": "19beeb0a1bf1804cecaa9d58e97fc3b315dd24d80c97869b72fd5dff8332f014",
-      "size": 20527844
+      "versionCode": 10024,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.4.0-android4-legacy.apk",
+      "sha256": "145b75956fafeea099f05a41c3f47d22dfd1a7cf9dae2b98926a7b6c68595959",
+      "size": 20530552
     }
   }
 }
