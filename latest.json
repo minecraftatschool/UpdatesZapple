@@ -1,20 +1,20 @@
 {
-  "versionName": "3.6.0",
-  "notes": "Group calls! Voice or video calls with up to 4 people in any group. Tap the call buttons in a group, or the green bar to join a call that's already going on.",
-  "published": "2026-10-27T16:35:12.324Z",
+  "versionName": "3.7.0",
+  "notes": "Chat pets! 🐣 Write to each other every day to grow a pet from an egg to a legendary creature (it runs away if you miss a day). Also: on Android 8+ updates now download through your browser, which fixes the Google Play Protect warning.",
+  "published": "2026-10-28T09:53:51.193Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 25026,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.6.0-android5plus.apk",
-      "sha256": "682696e00613df51be314b68a0c80bcc498ac64f1604c8fb8a889dac9853bdd8",
-      "size": 28484860
+      "versionCode": 25027,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.7.0-android5plus.apk",
+      "sha256": "1345c37bed9fa8555a94e0381626bb34d93b0f06b140c35f2be3ab1110829d48",
+      "size": 28490112
     },
     "legacy": {
-      "versionCode": 10026,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.6.0-android4-legacy.apk",
-      "sha256": "b6369db0c9a509f985767e31287b95d6f15050d84f4627e33b803a6152746c55",
-      "size": 20545873
+      "versionCode": 10027,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.7.0-android4-legacy.apk",
+      "sha256": "074763ffac6181c3102363ed427649ae2a4ea71858a2cbccd9348a7216425d37",
+      "size": 20549240
     }
   }
 }
