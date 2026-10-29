@@ -1,20 +1,20 @@
 {
-  "versionName": "3.7.1",
-  "notes": "Fix: opening a chat from a notification and pressing Back now takes you to your chats instead of closing Zapple.",
-  "published": "2026-10-28T11:26:12.484Z",
+  "versionName": "3.7.2",
+  "notes": "Updates install from inside Zapple again on every Android version (tap Update, Zapple downloads it and opens the installer).",
+  "published": "2026-10-29T10:27:47.381Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 25028,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.7.1-android5plus.apk",
-      "sha256": "ca40ddee221282be8db0dedb51c32d5561327f7b51c3417750cb1a4e52d68b01",
-      "size": 28490420
+      "versionCode": 25029,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.7.2-android5plus.apk",
+      "sha256": "464a7d5f277661506fd44b74f9c49a79740b8cd3830bc0e2650e87c7ba46c614",
+      "size": 28490341
     },
     "legacy": {
-      "versionCode": 10028,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.7.1-android4-legacy.apk",
-      "sha256": "19bcbba580cbda41e48a9b887787c75af5bbb08d8c3caa278be55b801c8ce9c9",
-      "size": 20549652
+      "versionCode": 10029,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.7.2-android4-legacy.apk",
+      "sha256": "655114c10b7d9128f55f081e5b7c7fecb487be80713a7371d676a1a93ee7ca87",
+      "size": 20549669
     }
   }
 }
