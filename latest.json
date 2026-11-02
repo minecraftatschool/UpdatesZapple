@@ -1,20 +1,20 @@
 {
-  "versionName": "3.7.2",
-  "notes": "Updates install from inside Zapple again on every Android version (tap Update, Zapple downloads it and opens the installer).",
-  "published": "2026-10-29T10:27:47.381Z",
+  "versionName": "3.8.0",
+  "notes": "Games tab! Two offline games with every Zapple character: Zapple Wheels (ride the Zap Scooter, don't lose your head) and Cut the Zap (cut the ropes, feed the zap to your pet). Android 5.0+.",
+  "published": "2026-11-02T21:26:17.110Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 25029,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.7.2-android5plus.apk",
-      "sha256": "464a7d5f277661506fd44b74f9c49a79740b8cd3830bc0e2650e87c7ba46c614",
-      "size": 28490341
+      "versionCode": 25030,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.8.0-android5plus.apk",
+      "sha256": "932212d1bdb78e54974143fbaad88998761a6b339ee5dc23442b64b966d45e9f",
+      "size": 28598488
     },
     "legacy": {
-      "versionCode": 10029,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.7.2-android4-legacy.apk",
-      "sha256": "655114c10b7d9128f55f081e5b7c7fecb487be80713a7371d676a1a93ee7ca87",
-      "size": 20549669
+      "versionCode": 10030,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.8.0-android4-legacy.apk",
+      "sha256": "94731958eccd87b3814c9faaaaac1d15b2ede15c379c053adc5edfc19db7352d",
+      "size": 20657469
     }
   }
 }
