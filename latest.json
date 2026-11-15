@@ -1,20 +1,20 @@
 {
-  "versionName": "3.9.0",
-  "notes": "Games 2.0! Zapple Wheels: 24 levels in 4 worlds, 4 vehicles to unlock, ragdoll wipeouts, flips, checkpoints. Cut the Zap: 32 levels in 4 boxes with bubbles, rails, magic hats and gravity. New cartoon characters, sound and music. Works offline.",
-  "published": "2026-11-03T07:03:45.506Z",
+  "versionName": "4.0.0",
+  "notes": "Zapple 4.0: Access IDs! Sign up with just a username and a profile picture and get an Access ID to log in with (no password, no email). WARNING: if you lose your Access ID, you lose your account, so save it! Username + password accounts still work, and you can add an Access ID or a password in Settings → Security.",
+  "published": "2026-11-15T11:21:30.564Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 25031,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.9.0-android5plus.apk",
-      "sha256": "0e955d5004929d7506dede12e7a9018e3d8290a0f78ce7ce0c99b3c6a58798c7",
-      "size": 28645246
+      "versionCode": 25032,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-4.0.0-android5plus.apk",
+      "sha256": "d7a681eebda8943353e4ab83281f31c0d057ad11a9542964f56c1800c78de859",
+      "size": 28652877
     },
     "legacy": {
-      "versionCode": 10031,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-3.9.0-android4-legacy.apk",
-      "sha256": "150408e99e57b3cff774d5d2dd08208285aba89d21413ad0817fee23d6fff549",
-      "size": 20704152
+      "versionCode": 10032,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-4.0.0-android4-legacy.apk",
+      "sha256": "5ef5ad1212f3385f3d03dbfb1d1bbeed6a81b264531cadc4701d7a8d469a67d4",
+      "size": 20713899
     }
   }
 }
