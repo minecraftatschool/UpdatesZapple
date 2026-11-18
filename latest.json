@@ -1,20 +1,20 @@
 {
-  "versionName": "4.3.0",
-  "notes": "Zapple 4.3.0: Zapple Blocks is now Zapple Worlds — play online with friends! Make a world, share its code (or make it public), up to 8 players build together and every world is saved on Zapple. Chat bubbles, see each other dig and build live. Works on Android 4 too. Offline worlds are still there.",
-  "published": "2026-11-18T08:41:56.649Z",
+  "versionName": "4.4.0",
+  "notes": "Zapple 4.4.0: Zapple Worlds is now a real native Android game — no browser inside, smoother, and it runs on every Android from 4.0. Same worlds and multiplayer as the website: every world, private or public, stays saved on Zapple until its owner deletes it. Your offline worlds come along automatically.",
+  "published": "2026-11-18T09:43:51.109Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 25035,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-4.3.0-android5plus.apk",
-      "sha256": "67b9afb89ba504353a50788929aeaf5f39fc0029be5c415c194e150bc38bf2d1",
-      "size": 28704494
+      "versionCode": 25036,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-4.4.0-android5plus.apk",
+      "sha256": "f47f9ffd34385fa464c5a102a44409cf74f34e76b058187e73a86e71014691cf",
+      "size": 28754860
     },
     "legacy": {
-      "versionCode": 10035,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-4.3.0-android4-legacy.apk",
-      "sha256": "490e472333c016283cade4c4da3cd08905eaca3f03cf6d4ba4458a757a46b64c",
-      "size": 20763862
+      "versionCode": 10036,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-4.4.0-android4-legacy.apk",
+      "sha256": "c452fbda8c780a75986ae15a565c5c25985b2544f42afd390b5bbc2ee333a9d7",
+      "size": 20814727
     }
   }
 }
