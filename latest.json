@@ -1,20 +1,20 @@
 {
-  "versionName": "4.1.0",
-  "notes": "Zapple 4.1: Zapple Bluetooth mode! Chat with phones nearby over Bluetooth with no internet and no server: messages, photos and files, end-to-end encrypted. Menu → Zapple Bluetooth.",
-  "published": "2026-11-17T07:07:22.038Z",
+  "versionName": "4.2.0",
+  "notes": "Zapple 4.2: Zapple Blocks! A new game in the Games tab: dig, build and explore a world of blocks with the Zapple pets. Explore or Creative. Works offline, also on Android 4.",
+  "published": "2026-11-18T07:38:05.999Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 25033,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-4.1.0-android5plus.apk",
-      "sha256": "367df462e4442c1fb98a05fdb86eeb869e851e6a690a4a789b106b6c0c9f868a",
-      "size": 28676027
+      "versionCode": 25034,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-4.2.0-android5plus.apk",
+      "sha256": "8ce6c6e0061824bd2e42009dc9df6cae031f7370a7e1e9fbb6d6bdd709d67f29",
+      "size": 28695242
     },
     "legacy": {
-      "versionCode": 10033,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-4.1.0-android4-legacy.apk",
-      "sha256": "8ff7f28ff34257828db695cb71abb884bfd4ae2650b1d7a9912ab5788855c957",
-      "size": 20734638
+      "versionCode": 10034,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-4.2.0-android4-legacy.apk",
+      "sha256": "0a25c2f5e52b64dc9e71ffad9bd031efa935eba2e5028fe8d91206757d5c91ef",
+      "size": 20753338
     }
   }
 }
