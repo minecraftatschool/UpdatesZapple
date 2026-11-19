@@ -1,20 +1,20 @@
 {
-  "versionName": "5.0.0",
-  "notes": "Zapple 5.0.0: Zapple Worlds is now 3D! Endless first-person block worlds — mountains, seas, caves, forests — dig and build, play online with friends. Make as many worlds as you want, private or public (search all public worlds), and every one stays saved on Zapple until its owner deletes it. Real 3D on every Android from 4.0.",
-  "published": "2026-11-18T16:42:11.775Z",
+  "versionName": "5.1.0",
+  "notes": "Zapple 5.1.0: Zapple Worlds gets tools and crafting! Pickaxes, axes and shovels (wood, stone, zap, gem) that wear out, a Workbench with a 3x3 crafting grid, and real digging: stone needs a pickaxe, better ores need better tools. Fixed: you no longer sink into the ground while a world loads. Zapple Wheels and Cut the Zap are gone. Admins can update the server from the app.",
+  "published": "2026-11-19T12:57:02.140Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 25037,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-5.0.0-android5plus.apk",
-      "sha256": "112e8a494cbcd3aeff200a862d8a1dfb6b501230e623dcb6bc454d91ec5ecac5",
-      "size": 28735197
+      "versionCode": 25038,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-5.1.0-android5plus.apk",
+      "sha256": "f686e86d41be79dc2712d1a6389de956c098e3b00f406c3555b3a20a7be0dc30",
+      "size": 28590600
     },
     "legacy": {
-      "versionCode": 10037,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-5.0.0-android4-legacy.apk",
-      "sha256": "462be0f22dafa34499af33e33aff15033304d23eb37bce3fec23e97bb2773b64",
-      "size": 20794976
+      "versionCode": 10038,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-5.1.0-android4-legacy.apk",
+      "sha256": "353b4c6eef0c5b0c678bffbb64822dbfd6c0d808a96a0bc0bd437ee87d60e373",
+      "size": 20649213
     }
   }
 }
