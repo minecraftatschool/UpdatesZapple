@@ -1,20 +1,20 @@
 {
-  "versionName": "5.1.0",
-  "notes": "Zapple 5.1.0: Zapple Worlds gets tools and crafting! Pickaxes, axes and shovels (wood, stone, zap, gem) that wear out, a Workbench with a 3x3 crafting grid, and real digging: stone needs a pickaxe, better ores need better tools. Fixed: you no longer sink into the ground while a world loads. Zapple Wheels and Cut the Zap are gone. Admins can update the server from the app.",
-  "published": "2026-11-19T12:57:02.140Z",
+  "versionName": "5.1.1",
+  "notes": "Zapple 5.1.1: Zapple Worlds looks clean on old phones: no more lines between blocks, no shimmering far away, no flickering faces (padded textures, mipmaps, better depth buffer on Android 4). The website always loads the newest version now.",
+  "published": "2026-11-19T13:30:24.186Z",
   "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
   "builds": {
     "modern": {
-      "versionCode": 25038,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-5.1.0-android5plus.apk",
-      "sha256": "f686e86d41be79dc2712d1a6389de956c098e3b00f406c3555b3a20a7be0dc30",
-      "size": 28590600
+      "versionCode": 25039,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-5.1.1-android5plus.apk",
+      "sha256": "d84e4b94d931edf9cb9b90d3bcb4f978c31e5fbd42feaecf4f9fa14612dbd694",
+      "size": 28592345
     },
     "legacy": {
-      "versionCode": 10038,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-5.1.0-android4-legacy.apk",
-      "sha256": "353b4c6eef0c5b0c678bffbb64822dbfd6c0d808a96a0bc0bd437ee87d60e373",
-      "size": 20649213
+      "versionCode": 10039,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-5.1.1-android4-legacy.apk",
+      "sha256": "5b879861702c58d62f1378a79aab4c6483f386b1ede2f8443d1f5ad465b88ce0",
+      "size": 20650644
     }
   }
 }
