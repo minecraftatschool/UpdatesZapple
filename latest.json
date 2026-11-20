@@ -1,20 +1,20 @@
 {
-  "versionName": "5.2.0",
-  "notes": "Zapple 5.2.0: Zapple Worlds survival! A real inventory with a 9-slot hotbar (your tools, blocks and food go in slots; the tool you hold is the one you dig with), crafting on the grid, health and hunger, animals and night creatures, swords, a furnace, and things that drop on the ground (everything you carry drops when you die).",
-  "published": "2026-11-19T17:35:32.943Z",
-  "signer_sha256": "2f8bc483788168c15f441c8103573dbbc3dded6656a99293a6520fb8ed1f9852",
+  "versionName": "5.2.1",
+  "notes": "Zapple 5.2.1 — IMPORTANT: this version is signed with a new key, so it can't install over the old app. Export your data (Settings), uninstall Zapple, then install 5.2.1 from zapple.sehrn.xyz/download. After that, updates work automatically again. Fixed: in online worlds, things you throw or lose when you die now show up on the ground and can be picked up.",
+  "published": "2026-11-20T13:47:44.443Z",
+  "signer_sha256": "6b05416327a1223f740377de21a817b6a4a534c85f13490be268a383ca66dac8",
   "builds": {
     "modern": {
-      "versionCode": 25040,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-5.2.0-android5plus.apk",
-      "sha256": "ebeddb7400c33951f70f4eb3899422b772e54f4c7293e96b1b95b612c5d4d211",
-      "size": 28617070
+      "versionCode": 25041,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-5.2.1-android5plus.apk",
+      "sha256": "ab579a794b3f6279e07ed6e6466ac05246a0371f47c8c44032e7cb9de80a375d",
+      "size": 28617150
     },
     "legacy": {
-      "versionCode": 10040,
-      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-5.2.0-android4-legacy.apk",
-      "sha256": "e130785d970678f3210053cdc68de59ebf2ced8de5f2b3a29a5686cffca99747",
-      "size": 20675855
+      "versionCode": 10041,
+      "url": "https://raw.githubusercontent.com/minecraftatschool/UpdatesZapple/main/apks/zapple-5.2.1-android4-legacy.apk",
+      "sha256": "75c47c27d7d2f244d9b712144f6c6d53527bb332b5719ff1a7ccf5d71aa495ee",
+      "size": 20675970
     }
   }
 }
